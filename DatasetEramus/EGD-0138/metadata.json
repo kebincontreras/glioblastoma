@@ -1,0 +1,20 @@
+{
+    "Genetic_and_Histological_labels": {
+        "IDH": -1,
+        "1p19q": -1,
+        "Grade": 4
+    },
+    "Clinical_data": {
+        "Age": 81,
+        "Sex": "F"
+    },
+    "Segmentation_source": {
+        "Observer": "OBS1",
+        "Original scan": "FLAIR"
+    },
+    "Scan_characteristics": {
+        "Manufacturer": "SIEMENS",
+        "System": "Avanto",
+        "Field": 1.5
+    }
+}

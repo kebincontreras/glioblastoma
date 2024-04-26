@@ -1,0 +1,20 @@
+{
+    "Genetic_and_Histological_labels": {
+        "IDH": -1,
+        "1p19q": -1,
+        "Grade": 4
+    },
+    "Clinical_data": {
+        "Age": 39,
+        "Sex": "F"
+    },
+    "Segmentation_source": {
+        "Observer": "AUTO",
+        "Original scan": "ALL"
+    },
+    "Scan_characteristics": {
+        "Manufacturer": "SIEMENS",
+        "System": "SonataVision",
+        "Field": 1.5
+    }
+}

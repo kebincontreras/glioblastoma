@@ -1,0 +1,20 @@
+{
+    "Genetic_and_Histological_labels": {
+        "IDH": 0,
+        "1p19q": -1,
+        "Grade": -1
+    },
+    "Clinical_data": {
+        "Age": -1,
+        "Sex": "M"
+    },
+    "Segmentation_source": {
+        "Observer": "OBS1",
+        "Original scan": "T2"
+    },
+    "Scan_characteristics": {
+        "Manufacturer": "SIEMENS",
+        "System": "MAGNETOM_ESSENZA",
+        "Field": 1.5
+    }
+}

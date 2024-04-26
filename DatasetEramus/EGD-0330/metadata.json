@@ -1,0 +1,20 @@
+{
+    "Genetic_and_Histological_labels": {
+        "IDH": 1,
+        "1p19q": 1,
+        "Grade": 2
+    },
+    "Clinical_data": {
+        "Age": 43,
+        "Sex": "M"
+    },
+    "Segmentation_source": {
+        "Observer": "OBS2",
+        "Original scan": "FLAIR"
+    },
+    "Scan_characteristics": {
+        "Manufacturer": "SIEMENS",
+        "System": "Symphony",
+        "Field": 1.5
+    }
+}

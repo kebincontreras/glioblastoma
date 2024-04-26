@@ -1,0 +1,20 @@
+{
+    "Genetic_and_Histological_labels": {
+        "IDH": 1,
+        "1p19q": 0,
+        "Grade": 2
+    },
+    "Clinical_data": {
+        "Age": 41,
+        "Sex": "M"
+    },
+    "Segmentation_source": {
+        "Observer": "OBS2",
+        "Original scan": "FLAIR"
+    },
+    "Scan_characteristics": {
+        "Manufacturer": "GE MEDICAL SYSTEMS",
+        "System": "DISCOVERY MR450",
+        "Field": 1.5
+    }
+}
